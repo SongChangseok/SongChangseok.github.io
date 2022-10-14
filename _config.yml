@@ -19,7 +19,7 @@ locale: "ko_KR"
 title: "Changseok Archives"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "송창석"
+name: "SongChangseok"
 description: "5년차 개발자"
 url: "https://songchangseok.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ social:
 
 # Analytics
 analytics:
-  provider: "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id: "G-ZFK0T28YPH"
     anonymize_ip: # true, false (default)
