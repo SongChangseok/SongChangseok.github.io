@@ -15,7 +15,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko_KR"
+locale: "en-US"
 title: "Changseok Archives"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
@@ -58,7 +58,7 @@ reCaptcha:
   secret:
 atom_feed:
   path: # blank (default) uses feed.xml
-  hide: true # true, false (default)
+  hide: # true, false (default)
 search: true # true, false (default)
 search_full_content: # true, false (default)
 search_provider: "google" # lunr (default), algolia, google
@@ -106,12 +106,12 @@ author:
   name: "SongChangseok"
   avatar: "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "5년차 개발자"
-  # location: ""
-  # email: ""
+  location: "Seoul, Republic of Korea"
+  email: "a1373052011@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "a1373052011@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://songchangseok.github.io/"
@@ -214,7 +214,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Seoul" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
@@ -280,3 +280,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
