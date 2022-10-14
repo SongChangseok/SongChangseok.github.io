@@ -16,10 +16,10 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko_KR"
-title: "CSSONG BLOG"
+title: "Changseok Archives"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "SongChangseok"
+name: "송창석"
 description: "5년차 개발자"
 url: "https://songchangseok.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,12 @@ yandex_site_verification:
 baidu_site_verification:
 
 # Social Sharing
-twitter:
-  username:
-facebook:
-  username:
-  app_id:
-  publisher:
+# twitter:
+#   username:
+# facebook:
+#   username:
+#   app_id:
+#   publisher:
 og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -96,37 +96,37 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
+    tracking_id: "G-ZFK0T28YPH"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
   name: "SongChangseok"
   avatar: "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: ""
-  location: "서울특별시 강서구"
-  email: "songcs777@naver.com"
+  bio: "5년차 개발자"
+  # location: ""
+  # email: ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "a1373052011@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://songchangseok.github.io/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SongChangseok"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/changseok92"
 
 # Site Footer
 footer:
@@ -140,15 +140,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SongChangseok"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/changseok92"
 
 # Reading Files
 include:
