@@ -104,14 +104,14 @@ analytics:
 # Site Author
 author:
   name: "SongChangseok"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  avatar: "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: ""
+  location: "서울특별시 강서구"
   email: "songcs777@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "a1373052011@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,15 +131,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: "Twitter"
+    # icon: "fab fa-fw fa-twitter-square"
+    # url:
+    # - label: "Facebook"
+    # icon: "fab fa-fw fa-facebook-square"
+    # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/SongChangseok"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
