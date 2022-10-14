@@ -19,8 +19,8 @@ locale: "ko_KR"
 title: "Site Title"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
-description: "An amazing website."
+name: "SongChangseok"
+description: "5년차 개발자"
 url: "https://songchangseok.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "SongChangseok"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person."
   location: "Somewhere"
-  email:
+  email: "songcs777@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/SongChangseok"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
