@@ -3,6 +3,10 @@
 search: false
 ---
 
+$sans-serif: "Noto Sans KR";
+$monospace: "Ubuntu Mono";
+$type-size-4-5: "1.12em !default";
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
