@@ -149,6 +149,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/changseok92"
+    - label: "v1.0.0"
 
 # Reading Files
 include:
