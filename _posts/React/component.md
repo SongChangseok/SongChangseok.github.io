@@ -1,5 +1,5 @@
 ---
-title: "Component"
+title: "component"
 date: 2022-10-18 22:00:00 -0400
 categories: React
 ---
