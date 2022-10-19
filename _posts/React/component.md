@@ -1,7 +1,7 @@
 ---
 title: "component"
 date: 2022-10-18 22:00:00 -0400
-categories: React
+categories: react
 ---
 
 Reusability(**재사용성**)과 **Separation of Concerns(**우려사항 분리\_\_)할 수 있도록 해주기 때문에 컴포넌트를 사용한다.
